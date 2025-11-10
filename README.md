@@ -10,7 +10,7 @@ This app was developed for the **AECtech Barcelona** workshop 2025.
 
 - ⚙️ Vue 3 + Vuetify
 - 📊 3D Graph visualization ([3d-force-graph](https://github.com/vasturiano/3d-force-graph))
-- 💬 Chat interface powered by OpenAI
+- 💬 Chat interface powered by OpenAI + neo4j
 
 ---
 
