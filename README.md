@@ -17,10 +17,13 @@ This app was developed for the **AECtech Barcelona** workshop 2025.
 ## 🛠️ Getting Started
 
 #### 1. Clone the Repo
-#### 2. Add your own OpenAI API key
+#### 2. Add your own OpenAI API key and graph data stored on neo4j
 ```
-⚠️ You’ll need an OpenAI account to get your key.
-Create a .env` file in the root of the project with: VITE_OPENAI_API_KEY=sk-xxxxx-your-key-here
+Create a .env` file in the root of the project with:
+VITE_OPENAI_API_KEY="sk-xxxxx-your-key-here"
+VITE_NEO4J_URI = "neo4j+s://xxx-your-uri-here"
+VITE_NEO4J_USER = "your-user-here"
+VITE_NEO4J_PASSWORD = "your-password-here"
 ```
 #### 3. Install Dependencies 
 `npm i`
